@@ -14,8 +14,8 @@ Description of variables in the dataset is pulled from the `features_info.txt` f
 The std and mean suffixes on the variables indicate calculation of mean and standard deviation, respectively. Additionally, the variable `activity`, the type of activity being performed during measurement, and `subject`, the individual subject (represented by a number ranging from 1-30) performing the activity, are included. 
 
 The full list of variables is : 
-activity
-subject
+-activity
+-subject
 tBodyAcc.std...X
 tBodyAcc.std...Y
 tBodyAcc.std...Z
