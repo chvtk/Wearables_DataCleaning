@@ -15,6 +15,7 @@ The std and mean suffixes on the variables indicate calculation of mean and stan
 
 The full list of variables is : 
 "activity"
+
 "subject"
 "tBodyAcc.std...X"
 "tBodyAcc.std...Y"
