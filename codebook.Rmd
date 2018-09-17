@@ -17,7 +17,6 @@ The full list of variables is :
 "activity"
 "subject"
 "tBodyAcc.std...X"
-
 "tBodyAcc.std...Y"
 
 "tBodyAcc.std...Z"
